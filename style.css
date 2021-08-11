@@ -7,6 +7,7 @@ img {
   margin-right: auto;
 }
 h1 {
-  size: 300%;
+  size: 100%;
+  font-family: "Open Sans", sans-serif;
   text-align: center;
 }
